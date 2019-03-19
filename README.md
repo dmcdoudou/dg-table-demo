@@ -1,21 +1,5 @@
 # demo-dg-table
 
-## Project setup
-```
-npm install
-```
+dg-table的演示代码
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+[演示地址](https://www.theputian.com/demo-dg-table/dist/index.html)
